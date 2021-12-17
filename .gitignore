@@ -4,3 +4,4 @@
 *.ptx
 *.cubin
 *.fatbin
+/ConsoleApp1/ConsoleApp1/obj
